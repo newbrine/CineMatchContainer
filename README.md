@@ -2,8 +2,8 @@
 
 ## CineMatch Frontend
 
-(Frontend)[https://github.com/2012JavaReston/MovieApp-FrontEnd]
+[Frontend](https://github.com/2012JavaReston/MovieApp-FrontEnd)
 
 ## CineMatch Backend
 
-(Backend)[https://github.com/2012JavaReston/MovieApp-BackEnd]
+[Backend](https://github.com/2012JavaReston/MovieApp-BackEnd)
